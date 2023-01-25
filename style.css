@@ -1,0 +1,21 @@
+body{
+    background: #97661d;
+    margin: 0 30%;
+}
+h1,#title{
+    text-align: center;
+    color: rgb(83, 7, 37);
+    font-size: 3em;
+    text-shadow: 5px 5px 10px black;
+}
+ img{
+    display: block;
+    width: 100%;
+ }
+
+ div#tribute-information{
+    background: #ced36f;
+    box-shadow: 20px 20px 15px;
+    padding: 10px;
+    margin-top: 20px;
+ }
